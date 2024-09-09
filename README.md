@@ -1,1 +1,1 @@
-# Memory_test_game
+The Word memory game is a python base program designed to improve and evaluate the player's memory skills.The game provides an interactive and engaging way for users to challenge their short-term memory by recalling words from various categories such as fruits,animals,and colors.The game emphasizes user interaction,providing feedback on their performance and encouraging repeated play to enhance memory retention.
